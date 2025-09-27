@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Opcional: puedes agregar estilos personalizados */
-body {
-  background-color: #f4f4f9; /* Un color claro y agradable */
-  font-family: sans-serif;
-}
